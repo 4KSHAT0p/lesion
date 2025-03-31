@@ -1,3 +1,5 @@
+*This is the code for LESION SEGMENTATION USING a modified UNET architecture in PYTORCH trained locally using RTX 3050 GPU (CUDA)*
+
 Dataset from: https://drive.google.com/drive/folders/13y9Urb8-LgUsRTfdsSS5taQxC1_uPI2w
 <br>
 Paper: https://www.sciencedirect.com/science/article/pii/S0020025519305377
